@@ -239,7 +239,7 @@ button {
     #home .text1,
     #home .imgWall {
         width: 100%;
-        overflow: hidden;
+        overflow: scroll;
     }
     .img {
         width: 55%;
