@@ -238,8 +238,7 @@ button {
     }
     #home .text1,
     #home .imgWall {
-        width: 100%;
-        overflow: scroll;
+        width: 50%;
     }
     .img {
         width: 55%;
