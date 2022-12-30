@@ -272,6 +272,9 @@ button {
     .img {
         width: 100%;
     }
+    .imgWall {
+        width: 100%;
+    }
     .text2 {
         width: 100%;
         margin-top: 30px;
@@ -309,7 +312,7 @@ button {
         padding: 5rem 2rem 2rem;
     }
     .imgWall {
-        width: 100;
+        width: 100%;
     }
     .card {
         max-width: 85%;
