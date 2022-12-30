@@ -238,7 +238,7 @@ button {
     }
     #home .text1,
     #home .imgWall {
-        width: 100%;
+        width: 50%;
         overflow: scroll;
     }
     .img {
@@ -307,9 +307,6 @@ button {
     }
     #about {
         padding: 5rem 2rem 2rem;
-    }
-    .imgwall {
-        width: 100%;
     }
     .card {
         max-width: 85%;
