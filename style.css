@@ -236,8 +236,8 @@ button {
     h1 {
         font-size: 8rem;
     }
-    #home .textDiv,
-    #home .imgDiv {
+    #home .text1,
+    #home .imgWall {
         width: 100%;
         overflow: hidden;
     }
