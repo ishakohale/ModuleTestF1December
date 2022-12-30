@@ -3,9 +3,9 @@ function fsubmit() {
     let LastName = document.getElementById('lastname').value;
     let Email = document.getElementById('email').value;
     let Reason = document.getElementById('reason').value;
-    console.log(firstName,
-        lastName, email, reason);
-    if (firstName && lastName && email && reason) {
+    console.log(FirstName,
+        LastName, Email, Reason);
+    if (FirstName && LastName && Email && Reason) {
         alert("Form Submitted Successfully");
     } else {
         alert("All fields are required");
